@@ -5,7 +5,10 @@ fun main(args: Array<String>) {
     var age = 12
     var  phoneNumber = 712345678
     var Weight = 50
-    var Citizen: Boolean = true
+    var Citizen: Boolean = true1
+￼
+This week
+
     println(fulname)
     println("Kenyan")
 
